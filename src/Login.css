@@ -1,0 +1,16 @@
+.login {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.login > button {
+  width: 200px;
+  height: 35px;
+  background-color: rgb(20, 106, 204);
+  border: none;
+  border-radius: 5px;
+  color: aliceblue;
+  font-size: 25px;
+}

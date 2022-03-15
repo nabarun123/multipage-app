@@ -1,0 +1,17 @@
+.nav {
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+  padding-top: 10px;
+}
+.logout {
+  height: 25px;
+  width: 100px;
+  background-color: red;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  font-size: 18px;
+  outline: none;
+  cursor: pinter;
+}

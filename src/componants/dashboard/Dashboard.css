@@ -1,0 +1,11 @@
+.dashboard {
+  background-color: darkgreen;
+  color: aliceblue;
+  height: 100vh;
+}
+
+.dashboard-card {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}

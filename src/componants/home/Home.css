@@ -1,0 +1,9 @@
+.home {
+  background-color: aquamarine;
+  height: 100vh;
+}
+.home-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
